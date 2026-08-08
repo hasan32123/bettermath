@@ -4,7 +4,7 @@ A concept-focused course companion with clear explanations, worked examples, pra
 
 ## Chapters
 
-1. Exponents and Logarithms
+1. [Exponents and Logarithms](chapters/01-exponents-and-logarithms.html)
 2. Sequences and Series
 3. Proofs
 4. Lines & Quadratics
