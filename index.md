@@ -1,22 +1,35 @@
-# BetterMath
+## IB Mathematics: Analysis and Approaches HL
 
-Clear, concept-focused resources for learning mathematics.
+A concept-focused course companion with clear explanations, worked examples, practice questions, and revision resources.
 
-## Topics
+## Chapters
 
-- Algebra
-- Functions
-- Trigonometry
-- Calculus
-- Statistics and Probability
+1. Exponents and Logarithms
+2. Sequences and Series
+3. Proofs
+4. Linear and Quadratic Equations
+5. Function Operations and Graphs
+6. Rational, Exponential, and Logarithmic Functions
+7. Polynomials
+8. Solids, Circles, and Triangles
+9. Trigonometric Functions and Equations
+10. Vectors
+11. Statistics
+12. Probability
+13. Probability Distributions
+14. Limits and Derivatives
+15. Applications of Differential Calculus
+16. Integral Calculus
+17. Differential Equations
+18. Complex Numbers
 
 ## Resources
 
-- Course notes
-- Practice worksheets
+- Concept notes
+- Practice exercises
+- Exam-style questions
 - Revision materials
-- Useful links
 
 ---
 
-Created by Hasan Khan
+Created by **Hasan Khan**
