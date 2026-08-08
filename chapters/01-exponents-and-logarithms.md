@@ -28,6 +28,5 @@ By the end of this chapter, students should be able to:
 
 ## Resources
 
-Notes, worked examples, exercises, and solutions will be added here.
-
+- [View or download the complete Chapter 1 PDF](../materials/chapter-01/ch01-combined.pdf)
 [← Return to the homepage](../)
