@@ -3,9 +3,6 @@
 Course companion for **IB Mathematics: Analysis and Approaches, Higher Level**.
 
 
-
-**Read them here: https://hasan32123.github.io/bettermath/**
-
 ## Chapters available
 
 | | Chapter | Syllabus | Pages |
@@ -27,8 +24,7 @@ followed by Paper 3 style investigations. Higher Level content is marked.
 ## Using these
 
 You may download, print, and use these chapters in your classroom or your own
-study, free of charge. Please keep the author's name on them. They may not be
-sold or used commercially.
+study, free of charge. They may not be sold or used commercially.
 
 Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 See `LICENSE`.
