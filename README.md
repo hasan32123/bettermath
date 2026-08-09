@@ -1,8 +1,8 @@
 # BetterMath
 
-Free chapters for **IB Mathematics: Analysis and Approaches, Higher Level**.
+Course companion for **IB Mathematics: Analysis and Approaches, Higher Level**.
 
-Created by **Hasan Khan**.
+
 
 **Read them here: https://hasan32123.github.io/bettermath/**
 
