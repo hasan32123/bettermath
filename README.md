@@ -4,7 +4,7 @@ A thoughtful and thorough companion resource for **IB Mathematics: Analysis and 
 
 **Hasan Khan**
 
-**Read them here: https://hasan32123.github.io/bettermath/**
+**Read them here: https://ibxhasan.github.io/bettermath/**
 
 ## Chapters
 
